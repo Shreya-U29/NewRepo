@@ -1,0 +1,13 @@
+﻿Hello
+How are you
+What time is it
+Wake up
+Stop listening
+Stop talking
+Show commands
+Hide Commands
+Close it
+What is the battery status
+Open google
+Play DNA
+
